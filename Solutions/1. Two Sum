@@ -1,0 +1,25 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        if len(nums) == 0 :
+            return []
+        if len(nums) == 1 :
+            if nums[0] == target:
+                return [0]
+        if len(nums) == 2:
+            if nums[0] + nums [1] == target:
+                return [0,1]
+        if target == 0:
+            index = []
+            for i,n in enumerate(nums):
+                if n == 0:
+                    index.append(i)
+            if 0 in nums:
+                return index
+        mapping = {v:k for v,k in enumerate(nums)}
+        indices = [i for i,_ in enumerate(nums)]
+        for i in indices:
+            targ = target - mapping[i]
+            del mapping[i]
+            for j in indices[i+1:]:
+                if targ == mapping[j]:
+                    return [i,j]
