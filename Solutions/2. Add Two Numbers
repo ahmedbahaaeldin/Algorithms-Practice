@@ -1,0 +1,24 @@
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        t = ListNode(0)
+        sol = t
+        carry = 0
+        flag = False
+        while(True):
+            addition = l1.val + l2.val + carry 
+            carry = 1 if addition > 9 else 0
+            sol.val = addition % 10
+            if l1.next == None and l2.next == None and carry == 0:
+                break
+            if l1.next == None:
+                l1.next = ListNode(0)
+            if l2.next == None:
+                l2.next = ListNode(0)
+                
+            l1 = l1.next
+            l2 = l2.next
+            sol.next = ListNode(0)
+            sol = sol.next
+
+        return t
+            
