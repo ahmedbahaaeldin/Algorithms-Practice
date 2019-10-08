@@ -3,7 +3,7 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 
 
 # Problem Number:
-### 1. Two Sum
+##### 1. Two Sum
 Runtime: 4412 ms
 Memory Usage: 15.8 MB
 ### 2. Add Two Numbers
