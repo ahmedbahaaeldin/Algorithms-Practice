@@ -5,14 +5,16 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 
 | Problem Name | Runtime and Memory Usage |
 | --- | --- |
-| ` 1. Two Sum` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-###
-Runtime: 4412 ms
-Memory Usage: 15.8 MB
-### 2. Add Two Numbers
-Runtime: 76 ms
-Memory Usage: 14 MB
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+| `  2. Add Two Numbers` | Runtime: 76 ms<br/>Memory Usage: 14 MB |
+| `  9. Palindrome Number` | Runtime: 92 ms
+Memory Usage: 14 MB |
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+| ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
+
 ### 9. Palindrome Number
 Runtime: 92 ms
 Memory Usage: 14 MB
