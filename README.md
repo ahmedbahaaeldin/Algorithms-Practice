@@ -3,22 +3,22 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 
 
 # Problem Number:
-## 1. Two Sum
+### 1. Two Sum
 Runtime: 4412 ms
 Memory Usage: 15.8 MB
-## 2. Add Two Numbers
+### 2. Add Two Numbers
 Runtime: 76 ms
 Memory Usage: 14 MB
-## 9. Palindrome Number
+### 9. Palindrome Number
 Runtime: 92 ms
 Memory Usage: 14 MB
-## 14. Longest Common Prefix
+### 14. Longest Common Prefix
 Runtime: 40 ms
 Memory Usage: 13.9 MB
-## 20. Valid Parentheses
+### 20. Valid Parentheses
 Runtime: 40 ms
 Memory Usage: 13.8 MB
-## 26. Remove Duplicates from Sorted Array
+### 26. Remove Duplicates from Sorted Array
 Runtime: 100 ms
 Memory Usage: 15.2 MB
 ## 27. Remove Element
