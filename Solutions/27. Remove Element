@@ -1,0 +1,19 @@
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        new_nums = []
+        if len(nums) == 0:
+            return 0
+        if len(nums) == 1:
+            if val == nums[0]:
+                del nums[0]
+        for i,num in enumerate(nums):
+            if num == val:
+                del nums[i]
+        
+        while(True):
+            if val in nums:
+                i = nums.index(val)
+                del nums[i]
+            else:
+                break
+        
