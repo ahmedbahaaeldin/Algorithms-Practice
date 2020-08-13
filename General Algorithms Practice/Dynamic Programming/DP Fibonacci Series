@@ -1,0 +1,7 @@
+def DPFib(n):
+    array = [0 for i in range(n)]
+    array[0] = 0
+    array[1] = 1
+    for i in range(2,len(array)):
+        array[i] = array[i-2] + array[i-1]
+    return array
