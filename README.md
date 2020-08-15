@@ -14,6 +14,7 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 | `26. Remove Duplicates from Sorted Array` | Runtime: 100 ms<br/>Memory Usage: 15.2 MB |
 | `27. Remove Element` | Runtime: 44 ms<br/>Memory Usage: 14 MB |
 | `35. Search Insert Position` | Runtime: 60 ms<br/>Memory Usage: 16.1 MB |
+| `39. Combination Sum` | Runtime: 140 ms<br/>Memory Usage: 30.1 MB |
 | ` 53. Maximum Subarray` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
 | `  66. Plus One` | Runtime: 36 ms <br/> Memory Usage: 13.8 MB |
 | `122. Best Time to Buy and Sell Stock II` | Runtime: 92 ms<br/>Memory Usage: 17 MB|
