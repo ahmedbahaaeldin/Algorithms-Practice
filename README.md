@@ -1,5 +1,6 @@
 # LeetCode-Practice
-My solutions to leetcode problems and its for practicing not 100% optimized.
+My Leetcode "Solution" (in solutions/ folder) to leetcode problems. 
+Its for practicing and tracking progress not 100% optimized.
 <br/> My Account Link https://leetcode.com/bikanation/
 
 
