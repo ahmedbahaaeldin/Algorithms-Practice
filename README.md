@@ -9,6 +9,7 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 | ` 1. Two Sum` | Runtime: 4412 ms<br/>Memory Usage: 15.8 MB |
 | `  2. Add Two Numbers` | Runtime: 76 ms<br/>Memory Usage: 14 MB |
 | `  9. Palindrome Number` | Runtime: 92 ms<br/>Memory Usage: 14 MB |
+| `13. Roman to Integer` | Runtime: 52 ms<br/>Memory Usage: 14.1 MB |
 | ` 14. Longest Common Prefix` | Runtime: 40 ms<br/>Memory Usage: 13.9 MB |
 | ` 20. Valid Parentheses` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
 | `26. Remove Duplicates from Sorted Array` | Runtime: 100 ms<br/>Memory Usage: 15.2 MB |
@@ -21,6 +22,8 @@ My solutions to leetcode problems and its for practicing not 100% optimized.
 | `303. Range Sum Query - Immutable` | Runtime: 96 ms<br/>Memory Usage: 17.2 MB |
 | `690. Employee Importance` | Runtime: 160 ms<br/>Memory Usage: 14.6 MB |
 | `697. Degree of an Array` | Runtime: 260 ms<br/>Memory Usage: 15.1 MB |
+
+
 
 
 
