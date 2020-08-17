@@ -20,6 +20,7 @@ Its for practicing and tracking progress not 100% optimized.
 | ` 53. Maximum Subarray` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
 | `  66. Plus One` | Runtime: 36 ms <br/> Memory Usage: 13.8 MB |
 | `122. Best Time to Buy and Sell Stock II` | Runtime: 92 ms<br/>Memory Usage: 17 MB|
+| `226. Invert Binary Tree` | Runtime: 36 ms<br/>Memory Usage: 13.8 MB|
 | `303. Range Sum Query - Immutable` | Runtime: 96 ms<br/>Memory Usage: 17.2 MB |
 | `690. Employee Importance` | Runtime: 160 ms<br/>Memory Usage: 14.6 MB |
 | `697. Degree of an Array` | Runtime: 260 ms<br/>Memory Usage: 15.1 MB |
