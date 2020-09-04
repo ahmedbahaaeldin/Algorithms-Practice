@@ -15,6 +15,7 @@ Its for practicing and tracking progress not 100% optimized.
 | ` 20. Valid Parentheses` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
 | `26. Remove Duplicates from Sorted Array` | Runtime: 100 ms<br/>Memory Usage: 15.2 MB |
 | `27. Remove Element` | Runtime: 44 ms<br/>Memory Usage: 14 MB |
+| `33. Search Rotated Array` | Runtime: 32 ms<br/>Memory Usage: 14.2 MB |
 | `35. Search Insert Position` | Runtime: 60 ms<br/>Memory Usage: 16.1 MB |
 | `39. Combination Sum` | Runtime: 140 ms<br/>Memory Usage: 30.1 MB |
 | ` 53. Maximum Subarray` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
