@@ -13,6 +13,7 @@ Its for practicing and tracking progress not 100% optimized.
 | `13. Roman to Integer` | Runtime: 52 ms<br/>Memory Usage: 14.1 MB |
 | ` 14. Longest Common Prefix` | Runtime: 40 ms<br/>Memory Usage: 13.9 MB |
 | ` 20. Valid Parentheses` | Runtime: 40 ms<br/>Memory Usage: 13.8 MB |
+| ` 22. Generate Parentheses` | Runtime: 164 ms<br/>Memory Usage: 22.5 MB |
 | `26. Remove Duplicates from Sorted Array` | Runtime: 100 ms<br/>Memory Usage: 15.2 MB |
 | `27. Remove Element` | Runtime: 44 ms<br/>Memory Usage: 14 MB |
 | `33. Search Rotated Array` | Runtime: 32 ms<br/>Memory Usage: 14.2 MB |
