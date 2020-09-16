@@ -93,5 +93,4 @@ def Closest_Pair(Px,Py):
                 min_distance = (dist,P,Q)
     return min_distance
     
-    
-    Closest_Pair(Px,Py)
+Closest_Pair(Px,Py)
